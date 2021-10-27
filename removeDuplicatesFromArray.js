@@ -13,3 +13,6 @@ var uniq = array.filter(function(item, pos) {
 })
 
 console.log(uniq)
+
+
+// Output  = [1,3,2]
